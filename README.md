@@ -64,11 +64,12 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - **Strategic Impact**: Helps focus sales efforts on high-value client relationships.
 - ![Visual3](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual3_Top%205%20Customers%20Analysis.png)
 
-### **Visual 4: Profit % Analysis by Markets**
-- **Purpose**: Evaluate profitability performance across different city markets
-- **Key Insights**: Surat leads with 4.9% profit margin, while Bengaluru shows concerning -20.8% negative margin
-- **Business Value**: Identifies markets requiring immediate attention and successful market strategies to replicate
-- **Critical Finding**: Significant variation in Profit % from +4.9% to -20.8% indicates urgent need for market-specific strategies
+### **Visual 4: Profit Margin % Analysis by Markets**
+- **Purpose**: Evaluate profitability performance across different city markets.
+- **Key Insights**: Surat leads with 4.9% profit margin, while Bengaluru shows concerning -20.8% negative margin.
+- **Business Value**: Identifies markets requiring immediate attention and successful market strategies to replicate.
+- **Critical Finding**: Significant variation in Profit % from +4.9% to -20.8% indicates urgent need for market-specific strategies.
+-![Visual4](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual4_Profit%20%25%20Analysis%20by%20Markets.png)
 
 ---
 ### **Visual 5: Revenue Trends Line and Clustered Column Chart**
