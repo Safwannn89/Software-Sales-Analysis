@@ -1,11 +1,11 @@
 # Atliq Hardware - Power BI Sales Analytics Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 This Power BI dashboard was developed for Atliq Hardware to transform their sales data analysis from manual Excel processes to an automated, comprehensive business intelligence solution.
 
 ---
 
-## 🎯 1. Business Problem
+##  1. Business Problem
 
 **The Challenge:**
 Atliq Hardware's Sales Manager was struggling with fragmented data analysis across multiple Excel files, making it difficult to:
@@ -23,7 +23,7 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 
 ---
 
-## 🎯 2. Goal of the Dashboard
+##  2. Goal of the Dashboard
 
 **Primary Objectives:**
 - **Centralize Sales Intelligence**: Create a single source of truth for all sales and revenue metrics
@@ -41,7 +41,7 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 
 ---
 
-## 📈 3. Key Visuals Walkthrough
+##  3. Key Visuals Walkthrough
 
 ### **Visual 1: Revenue Trends Line Chart**
 - **Purpose**: Track revenue performance over time from 2017-2020
@@ -49,7 +49,7 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - **Business Value**: Helps identify peak seasons and concerning downward trends requiring immediate attention
 - **Interactive Features**: Year and month filters for detailed time-period analysis
 
-### **Visual 2: Revenue by Markets (Horizontal Bar Chart)**
+### **Visual 2: Revenue Contribution % by Markets (Horizontal Bar Chart)**
 - **Purpose**: Compare revenue contribution across different cities/regions
 - **Key Insights**: Delhi NCR leads with highest revenue, followed by Mumbai and Ahmedabad
 - **Business Value**: Enables regional strategy optimization and resource allocation decisions
@@ -61,15 +61,20 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - **Business Value**: Supports customer retention strategies and account management prioritization
 - **Strategic Impact**: Helps focus sales efforts on high-value client relationships
 
-### **Visual 4: Profit Margin Analysis by Markets**
+### **Visual 4: Profit % Analysis by Markets**
 - **Purpose**: Evaluate profitability performance across different city markets
 - **Key Insights**: Surat leads with 4.9% profit margin, while Bengaluru shows concerning -20.8% negative margin
 - **Business Value**: Identifies markets requiring immediate attention and successful market strategies to replicate
-- **Critical Finding**: Significant variation in profit margins from +4.9% to -20.8% indicates urgent need for market-specific strategies
+- **Critical Finding**: Significant variation in Profit % from +4.9% to -20.8% indicates urgent need for market-specific strategies
 
 ---
+### **Visual 5: Revenue Trends Line and Clustered Column Chart**
+- **Purpose**: Track Revenue over Time with Last year Revenue (Revenue LY) and Profit Margin Parcentage.
+- **Key Insights**:  Profit Margin % is 4.9% and Current Revenue is 31.53M with respect to Last Year Revenue 42.52M in Jan 2019, and then after this, both Revenue and Profit Margin % gradually decrease. By Jan 2020, the Profit Margin is 1.3% and Revenue is 14.71M.
+- **Business Value**:  Provides a clear understanding of declining revenue and profitability trends over time, enabling stakeholders to take timely actions to mitigate risks and improve financial performance.
+- **Critical Finding**: A consistent decline in both Revenue and Profit Margin % over the year indicates potential issues in pricing strategy, customer retention, or market demand that need immediate investigation.
 
-## 💡 4. Key Insights Discovered
+##  4. Key Insights Discovered
 
 ### **Revenue Performance:**
 - **Declining Trend Alert**: Revenue peaked in 2018 but shows consistent decline through 2019-2020
@@ -93,7 +98,7 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 
 ---
 
-## 🚀 5. Business Impact
+##  5. Business Impact
 
 ### **Strategic Actions Enabled:**
 - **Crisis Management**: Immediate action required for Bengaluru market (-20.8% margin) to prevent further losses
@@ -122,7 +127,7 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 
 ---
 
-## 📋 Technical Details
+##  Technical Details
 
 **Data Sources**: Sales transactions, customer data, product information, regional mapping
 **Refresh Frequency**: Real-time/Daily updates
@@ -131,7 +136,7 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 
 ---
 
-## 🔧 Getting Started
+##  Getting Started
 
 1. Open the Power BI dashboard file
 2. Refresh data connections to get latest information
