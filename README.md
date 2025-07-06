@@ -48,13 +48,14 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - **Key Insights**: Shows seasonal patterns and declining trend from 2019 onwards.
 - **Business Value**: Helps identify peak seasons and concerning downward trends requiring immediate attention.
 - **Interactive Features**: Year and month filters for detailed time-period analysis.
-- ![Visual5](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual1_Revenue%20Trends%20Line%20Chart.png)
+- ![Visual1](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual1_Revenue%20Trends%20Line%20Chart.png)
 
 ### **Visual 2: Revenue Contribution % by Markets (Horizontal Bar Chart)**
-- **Purpose**: Compare revenue contribution across different cities/regions
-- **Key Insights**: Delhi NCR leads with highest revenue, followed by Mumbai and Ahmedabad
-- **Business Value**: Enables regional strategy optimization and resource allocation decisions
-- **Notable Finding**: Significant performance gaps between top and bottom-performing markets
+- **Purpose**: Compare revenue contribution across different cities/regions.
+- **Key Insights**: Delhi NCR leads with highest revenue, followed by Mumbai and Ahmedabad.
+- **Business Value**: Enables regional strategy optimization and resource allocation decisions.
+- **Notable Finding**: Significant performance gaps between top and bottom-performing markets.
+- ![Visual2](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual2_Revenue%20Contribution%20%25%20by%20Markets.png)
 
 ### **Visual 3: Top 5 Customers Analysis**
 - **Purpose**: Identify highest-value customers for relationship management
