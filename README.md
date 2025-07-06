@@ -1,4 +1,4 @@
-# Atliq Hardware - Power BI Sales Analytics Dashboard
+# Software-Sales-Analysis-Atliq Hardware(Power BI Sales Analytics Dashboard)
 
 ##  Project Overview
 This Power BI dashboard was developed for Atliq Hardware to transform their sales data analysis from manual Excel processes to an automated, comprehensive business intelligence solution.
@@ -77,6 +77,7 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - **Key Insights**:  Profit Margin % is 4.9% and Current Revenue is 31.53M with respect to Last Year Revenue 42.52M in Jan 2019, and then after this, both Revenue and Profit Margin % gradually decrease. By Jan 2020, the Profit Margin is 1.3% and Revenue is 14.71M.
 - **Business Value**:  Provides a clear understanding of declining revenue and profitability trends over time, enabling stakeholders to take timely actions to mitigate risks and improve financial performance.
 - **Critical Finding**: A consistent decline in both Revenue and Profit Margin % over the year indicates potential issues in pricing strategy, customer retention, or market demand that need immediate investigation.
+- ![Visual4](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual5_Revenue%20Trends%20Line%20and%20Clustered%20Column%20Chart.png)
 
 ##  4. Key Insights Discovered
 
