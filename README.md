@@ -58,10 +58,11 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - ![Visual2](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual2_Revenue%20Contribution%20%25%20by%20Markets.png)
 
 ### **Visual 3: Top 5 Customers Analysis**
-- **Purpose**: Identify highest-value customers for relationship management
-- **Key Insights**: Electricalsara Stores (₹413M) and Electricalsytical (₹50M) are top revenue generators
-- **Business Value**: Supports customer retention strategies and account management prioritization
-- **Strategic Impact**: Helps focus sales efforts on high-value client relationships
+- **Purpose**: Identify highest-value customers for relationship management.
+- **Key Insights**: Electricalsara Stores (₹413M) and Electricalsytical (₹50M) are top revenue generators.
+- **Business Value**: Supports customer retention strategies and account management prioritization.
+- **Strategic Impact**: Helps focus sales efforts on high-value client relationships.
+- ![Visual3](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual3_Top%205%20Customers%20Analysis.png)
 
 ### **Visual 4: Profit % Analysis by Markets**
 - **Purpose**: Evaluate profitability performance across different city markets
