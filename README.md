@@ -44,10 +44,11 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 ##  3. Key Visuals Walkthrough
 
 ### **Visual 1: Revenue Trends Line Chart**
-- **Purpose**: Track revenue performance over time from 2017-2020
-- **Key Insights**: Shows seasonal patterns and declining trend from 2019 onwards
-- **Business Value**: Helps identify peak seasons and concerning downward trends requiring immediate attention
-- **Interactive Features**: Year and month filters for detailed time-period analysis
+- **Purpose**: Track revenue performance over time from 2017-2020.
+- **Key Insights**: Shows seasonal patterns and declining trend from 2019 onwards.
+- **Business Value**: Helps identify peak seasons and concerning downward trends requiring immediate attention.
+- **Interactive Features**: Year and month filters for detailed time-period analysis.
+- ![Visual5](https://github.com/Safwannn89/Software-Sales-Analysis/blob/main/Visual1_Revenue%20Trends%20Line%20Chart.png)
 
 ### **Visual 2: Revenue Contribution % by Markets (Horizontal Bar Chart)**
 - **Purpose**: Compare revenue contribution across different cities/regions
