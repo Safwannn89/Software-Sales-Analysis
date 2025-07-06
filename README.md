@@ -35,7 +35,6 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - Total Revenue: ₹985M
 - Total Sales Quantity: 2M units
 - Total Profit Margin: ₹24.7M
-- **Dynamic Profit Target**: Interactive threshold setting with visual alerts
 - Revenue trends across time periods
 - Regional performance analysis
 - Customer and product profitability metrics
@@ -62,12 +61,11 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - **Business Value**: Supports customer retention strategies and account management prioritization
 - **Strategic Impact**: Helps focus sales efforts on high-value client relationships
 
-### **Visual 4: Dynamic Profit Target System**
-- **Purpose**: Interactive profit margin threshold setting with real-time performance alerts
-- **Key Features**: Adjustable profit target slider that dynamically highlights underperforming markets in red
-- **Business Value**: Enables instant identification of markets, customers, or products falling below acceptable profit thresholds
-- **Alert System**: Visual color-coding (red) for any market/customer/product with profit margin below the set target
-- **Strategic Impact**: Allows management to set performance benchmarks and immediately spot areas requiring intervention
+### **Visual 4: Profit Margin Analysis by Markets**
+- **Purpose**: Evaluate profitability performance across different city markets
+- **Key Insights**: Surat leads with 4.9% profit margin, while Bengaluru shows concerning -20.8% negative margin
+- **Business Value**: Identifies markets requiring immediate attention and successful market strategies to replicate
+- **Critical Finding**: Significant variation in profit margins from +4.9% to -20.8% indicates urgent need for market-specific strategies
 
 ---
 
@@ -89,28 +87,25 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 - **Performance Gaps**: Extreme variation in market profitability from -20.8% to +4.9% indicates inconsistent market management
 - **Market Optimization**: Kanpur (-0.5%) and Hyderabad (0.6%) are borderline markets needing strategic review
 
-### **Performance Monitoring Innovation:**
-- **Dynamic Threshold Setting**: Interactive profit target feature allows real-time adjustment of performance benchmarks
-- **Visual Alert System**: Automatic color-coding (red highlighting) for markets, customers, or products below profit targets
-- **Instant Performance Assessment**: Set profit target to 1% and immediately see which entities fall below threshold
-- **Multi-dimensional Analysis**: Alerts work across all business dimensions - markets, customers, products, and zones
+### **Product Performance:**
+- **Portfolio Analysis**: Clear identification of high-margin vs. low-margin product segments
+- **Sales Quantity vs. Revenue**: 2M units sold generating ₹985M revenue indicates average selling price insights
 
 ---
 
 ## 🚀 5. Business Impact
 
 ### **Strategic Actions Enabled:**
-- **Dynamic Performance Management**: Interactive profit target system enables real-time threshold setting and immediate identification of underperformers
-- **Crisis Management**: Instant visual alerts (red highlighting) for any market/customer/product below acceptable profit margins
-- **Flexible Benchmarking**: Ability to adjust profit targets based on market conditions and strategic goals
-- **Multi-level Analysis**: Simultaneous monitoring across markets, customers, products, and zones with single threshold setting
+- **Crisis Management**: Immediate action required for Bengaluru market (-20.8% margin) to prevent further losses
+- **Best Practice Replication**: Leverage successful strategies from Surat and Patna markets across underperforming regions
+- **Customer Focus**: Enhanced ability to prioritize high-value customers and improve retention strategies
+- **Market Restructuring**: Data-driven decisions for market consolidation or operational changes in loss-making regions
 
 ### **Operational Benefits:**
 - **Time Savings**: Reduced manual analysis time from hours to minutes
 - **Accuracy Improvement**: Eliminated human errors from manual Excel consolidation
-- **Real-time Decision Making**: Instant access to current performance metrics with dynamic threshold alerts
-- **Interactive Performance Monitoring**: Profit target slider provides immediate visual feedback on performance gaps
-- **Scalability**: Dashboard can easily accommodate new markets, products, and customers with consistent alert system
+- **Real-time Decision Making**: Instant access to current performance metrics
+- **Scalability**: Dashboard can easily accommodate new markets, products, and customers
 
 ### **Financial Impact:**
 - **Revenue Optimization**: Ability to identify and focus on high-revenue generating segments
@@ -141,11 +136,8 @@ Atliq Hardware's Sales Manager was struggling with fragmented data analysis acro
 1. Open the Power BI dashboard file
 2. Refresh data connections to get latest information
 3. Use the year and month filters to analyze specific time periods
-4. **Set Profit Target**: Adjust the profit target slider (e.g., set to 1% or any desired threshold)
-5. **Monitor Alerts**: Observe red highlighting on markets/customers/products below the set target
-6. Click on any chart element to cross-filter other visuals
-7. Hover over data points for detailed tooltips
-8. Use the dynamic alerts to prioritize action items and strategic decisions
+4. Click on any chart element to cross-filter other visuals
+5. Hover over data points for detailed tooltips
 
 ---
 
