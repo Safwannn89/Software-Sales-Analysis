@@ -1,4 +1,4 @@
-# Software-Sales-Analysis-Atliq Hardware(Power BI Sales Analytics Dashboard)
+# Software-Sales-Analysis-Atliq Hardware(PowerBI Dashboard)
 
 ##  Project Overview
 This Power BI dashboard was developed for Atliq Hardware to transform their sales data analysis from manual Excel processes to an automated, comprehensive business intelligence solution.
